@@ -2,14 +2,14 @@
 
 # 🚀 CppVerse
 
-### A Collection of C++ Projects by PAYAL JADHAV
+### A Collection of C++ Programming Projects
+
+![C++](https://img.shields.io/badge/Language-C-blue)
+![Projects](https://img.shields.io/badge/Projects-3-success)
+![GitHub](https://img.shields.io/badge/Open%20Source-Yes-brightgreen)
+![Status](https://img.shields.io/badge/Status-Active-orange)
 
 Building practical applications through Object-Oriented Programming, Game Development, and System Design.
-
-![C++](https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Projects](https://img.shields.io/badge/Projects-3-success?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)
 
 </div>
 
